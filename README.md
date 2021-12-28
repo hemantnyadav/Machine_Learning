@@ -1,8 +1,16 @@
 # Machine_Learning
-##IT354 Machine Learning
+
+## IT354 Machine Learning
+
 ### Week 1
 Introduction to Python Programming. How python used in machine learning? Discuss python with Google Colab.
-
+Study of computing facilty for machine learning available on campus
+ - NVIDIA GPU computer @711 lab
+ - Super Micro @718
+ - Param Shavak @ wincell
+ - DGX server @Center of Excellence
+ Make a study and presentation on above facilities.
+ 
 ### Week 2
 Numpy
 - Creating blank array, with predefined data, with pattern specific data
