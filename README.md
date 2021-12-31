@@ -6,10 +6,11 @@
 
 1. Explore google colab (Online tool to run ML codes) and make a experimental report on features of Google colab with how to access them.
 2. Study of computing facilty for machine learning available offline.
-NVIDIA GPU computer @711 lab
-Super Micro @718
-Param Shavak @ wincell
-DGX server @Center of Excellence Make a study and presentation on above facilities.
+
+   - NVIDIA GPU computer @711 lab
+   - Super Micro @718
+   - Param Shavak @ wincell
+   - DGX server @Center of Excellence
  
 ### Week 2
 Numpy
