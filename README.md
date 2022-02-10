@@ -88,19 +88,23 @@ For Help:
 5. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 
 ### Week 5
-Multi Class Classification (KNN)
-Select Dataset of your choice and respond to following questions.
-- Why you want to apply classification on selected dataset? Discuss full story behind dataset.
-- How many total observations in data?
-- How many independent variables?
-- Which is dependent variable?
-- Which are most useful variable in classification? Prove using correlation.
+Select Dataset of your choice with 3 or more classes and respond to following questions.
+- Discuss full story of the dataset including 
+   - Origin and revisions of dataset
+   - How it was collected
+   - Which are sources of data download 
+   - Associated research papers etc..
+- Explain size of dataset on disc and in memory including shape
+- Which are dependent and independent variables and their distributions?
+- Analyze dataset to check correlations between independent and dependent variable. Also explain how and why relevant variables are useful in estimating independent variable.
+- Explain pseudo code/steps involved in using KNN.
+- Implement KNN from pseudo code/steps.
 - Implement KNN using sklearn api.
-- Implement code to find best value of k by splitting data in train and test.
 - Quantify goodness of your model and discuss steps taken for improvement.
 - Can we use KNN for regression also? Why / Why not?
 - Discuss drawbacks of algorithms such as KNN.
 - Prepare presentation for this work in group of 5
+
 
 For Help:
 https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
