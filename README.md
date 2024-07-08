@@ -49,20 +49,29 @@ https://towardsdatascience.com/data-visualization-using-matplotlib-16f1aae5ce70
 
 ### Week 3
 Linear Regression
-Select Dataset of your choice and respond to following questions.
-- Why you want to apply regression on selected dataset? Discuss full story behind dataset.
+The goal of this assignment is to study and implement simple linear regression using three different approaches:
+- Ordinary Least Squares (OLS) method
+- SKLearn library
+- Gradient Descent
+Select a real dataset from UCI machine  Learning Repository with one dependent variable and one independent variable to compare the results of each approach and respond to the following questions.
+Discuss the full story of the dataset and discuss why regression is applicable on the dataset.
+- Write a code to show 
 - How many total observations in data?
-- How many independent variables?
-- Which is dependent variable?
-- Which are most useful variable in estimation? Prove using correlation.
-- Implement linear regression using OLS method.
-- Implement linear regression using Gradient Descent from scratch.
-- Implement linear regression using sklearn API.
-- Quantify goodness of your model and discuss steps taken for improvement (RMSE, SSE, R2Score).
-- Discuss comparison of different methods.
+- Data Distribution of independent and independent variables?
+- Relationship between dependent and independent variables(Correlation analysis).
+- Write a code to implement linear regression using the Ordinary Least Squares method on selected dataset. 
+- Use sklearn API to create linear regression using selected dataset. Print intercept and slope of a model. 
+- Write a code to implement linear regression using Gradient Descent from scratch on selected dataset. 
+- Quantify the goodness of your model using a table to display the result of predictions using SSE, RMSE and R2Score and discuss interpretation of errors and  steps taken for improvement of errors.
 - Prepare presentation for this work in group of 5
+Refrences:
+- Sklearn API: https://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
+- Kaggle Notebook: https://www.kaggle.com/code/nargisbegum82/step-by-step-ml-linear-regression
+- Complete Tutorial: https://realpython.com/linear-regression-in-python/
+- API reference: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+- Dataset Reference: https://archive.ics.uci.edu/datasets
 
-For help: refer following free course on datacamp. Regression models: fitting them and evaluating their performance
+
 
 ### Week 4
 Two Class Classification (Logistic Regression)
